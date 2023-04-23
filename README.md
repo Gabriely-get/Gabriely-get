@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Oie,%20Eu%20sou%20a%20Gabs&fontSize=60&fontColor=FFFF&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
 <!--
 **Gabriely-get/Gabriely-get** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
