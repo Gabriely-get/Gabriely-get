@@ -9,13 +9,11 @@
 
   <p></p>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriely-get&hide_border=false" height="120"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriely-get&hide_border=false&include_all_commits=false&count_private=false" height="120"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriely-get&hide_border=false&layout=compact" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabriely-get" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriely-get&layout=compact" height="120"/>
   <p></p>
 
-</div> 
-
-
+</div>
 
 
 <!--
