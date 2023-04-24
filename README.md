@@ -5,7 +5,18 @@
 
   <img src="https://media.giphy.com/media/yC7j4vZDEvrK8/giphy.gif" width="500" height="200"/>
 
-</div>
+<hr>
+<br/>
+
+  <p></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabriely-get&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriely-get&hide_border=false" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabriely-get&hide_border=false&include_all_commits=false&count_private=false" height="120"/>
+  <p></p>
+
+</div> 
+
+
 
 
 <!--
