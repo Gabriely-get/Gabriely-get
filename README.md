@@ -1,8 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Oie,%20Eu%20sou%20a%20Gabs&fontSize=50&fontColor=FFFF&animation=fadeIn&fontAlignY=38&desc=Para%20conseguir%20o%20quer%20quer,%20você%20deve%20olhar%20além%20do%20que%20vê&descSize=15&descAlignY=55&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Hi,%20I'm%20Gabs&fontColor=fafafa&fontSize=50&animation=fadeIn&)
+
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/yC7j4vZDEvrK8/giphy.gif" width="500" height="200"/>
+
+</div>
+
 
 <!--
-  o que quer,     do que você vê.
 
 **Gabriely-get/Gabriely-get** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
