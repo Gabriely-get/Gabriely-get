@@ -5,7 +5,7 @@
 
   <img src="https://media.giphy.com/media/yC7j4vZDEvrK8/giphy.gif" width="500" height="200"/>
 
-<br/>
+<br/><br/><br/>
 
   <p></p>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriely-get&hide_border=false" height="120"/>
