@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 
-  <!-- <img src="https://media.giphy.com/media/yC7j4vZDEvrK8/giphy.gif" width="500" height="200"/> -->
+ <img src="https://media.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="500" height="200"/>
 
 <br/><br/><br/>
   
@@ -19,7 +19,7 @@
 
 ---
 
-### Tools:
+### Languages and Tools:
 
 <div style="display: inline_block, width: 50">
   
@@ -33,10 +33,9 @@
   <img align="center" alt="MYSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">     
   <img align="center" alt="postgresql" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">  
   <img align ="center" alt="PYTHON" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  
-  
-  <img align ="center" alt="TOMCAT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" /> 
-  <img align ="center" alt="linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain-wordmark.svg" /> 
+  <img align ="center" alt="mongodb" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
+  <img align ="center" alt="gatling" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain-wordmark.svg" /> 
+  <img align ="center" alt="ubuntu" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /> 
   <img align ="center" alt="TOMCAT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" /> 
   <img align ="center" alt="ansible" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" /> 
   <img align ="center" alt="packer" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original-wordmark.svg" /> 
@@ -54,13 +53,16 @@
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="inkscape" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain-wordmark.svg"> 
+  <img align="center" alt="trello" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg"> 
   <img align="center" alt="TYPESCRIPT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+  <img align ="center" alt="nodejs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
   
 </div>
 
 ---
 
-### My Github's States
+### My Github Stats
 
 <div align="center">
   <p></p>
