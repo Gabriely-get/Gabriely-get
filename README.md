@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=40&fontAlignX=50&color=timeGradient&height=210&section=header&text=Hi,%20I'm%20Gabs%20😎&fontColor=fafafa&fontSize=50&animation=fadeIn&)
 
-<br>
 
 ### About Me :
 - 🎓 College student
