@@ -5,19 +5,19 @@
 
  <img src="https://media.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="500" height="200"/>
 
-<br/><br/><br/>
+<br/>
   
 </div>
 
----
+<br>
+
 ### About Me :
 - 🎓 College student
 - 🌱  I’m 20 years old and currently learning Redis, Kubernetes and AWS EKS.
 - 👩‍💻  I'm currently working as an intern at Ilegra, learning about Back-End and DevOps development and technologies.
 - ❤️‍🩹  I like to sleep, cook, and definitely write poems in my free time.
 - 🧘‍♀️ Know myself, balance myself, fill myself. To be myself, complete.
-
----
+<br>
 
 ### Languages and Tools:
 
@@ -60,7 +60,7 @@
   
 </div>
 
----
+<br>
 
 ### My Github Stats
 
@@ -72,7 +72,9 @@
   <p></p>
 </div>
 
+
 ---
+
 ### Contact:
 <div>
    <a href="https://www.linkedin.com/in/gabriely-willian-cristov%C3%A3o-dos-santos/" target="_blank">
