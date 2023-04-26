@@ -1,13 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Hi,%20I'm%20Gabs&fontColor=fafafa&fontSize=50&animation=fadeIn&)
-
-<div id="header" align="center">
-
- <img src="https://media.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="500" height="200"/>
-
-<br/>
-  
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=40&fontAlignX=50&color=timeGradient&height=210&section=header&text=Hi,%20I'm%20Gabs%20😎&fontColor=fafafa&fontSize=50&animation=fadeIn&)
 
 <br>
 
