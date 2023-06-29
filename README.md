@@ -23,7 +23,6 @@
     <img align ="center" alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />    
   <img align="center" alt="MYSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">     
   <img align="center" alt="postgresql" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">  
-  <img align ="center" alt="PYTHON" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
   <img align ="center" alt="mongodb" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
   <img align ="center" alt="gatling" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain-wordmark.svg" /> 
   <img align ="center" alt="ubuntu" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /> 
