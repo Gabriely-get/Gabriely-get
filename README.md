@@ -4,7 +4,7 @@
 
 ### About Me :
 - 🎓 College student
-- 🌱  I’m 20 years old and currently learning Redis, Kubernetes and AWS EKS.
+- 🌱  I’m 20 years old and currently learning about Redis, Kubernetes and ReactJS.
 - 👩‍💻  I'm currently working as an intern at Ilegra, learning about Back-End and DevOps development and technologies.
 - ❤️‍🩹  I like to sleep, cook, and definitely write poems in my free time.
 - 🧘‍♀️ Know myself, balance myself, fill myself. To be myself, complete.
