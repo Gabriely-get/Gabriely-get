@@ -4,7 +4,7 @@
 
 ### About Me :
 - 🎓 College student
-- 🌱  I’m 21 years old and currently learning about Redis, Kubernetes and ReactJS.
+- 🌱  I’m 21 years old and currently learning about Spring Security and ReactJS.
 - 👩‍💻  I'm learning about Back-End and DevOps development and technologies.
 - ❤️‍🩹  I like to sleep, cook, and definitely write poems in my free time.
 - 🧘‍♀️ Salmo 125:1
@@ -49,9 +49,7 @@
 
 <div align="center">
   <p></p>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriely-get&hide_border=false" height="120"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriely-get" height="120"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriely-get&layout=compact" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriely-get&layout=compact" />
   <p></p>
 </div>
 
@@ -60,7 +58,7 @@
 
 ### Contact:
 <div>
-   <a href="https://www.linkedin.com/in/gabriely-willian-cristov%C3%A3o-dos-santos/" target="_blank">
+   <a href="https://www.linkedin.com/in/gabriely-cristovao/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
    </a>
    <a href = "Mailto:gabrielysantos.informatica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
