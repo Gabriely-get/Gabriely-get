@@ -3,10 +3,10 @@
 
 
 ### About Me :
-- 🎓 College student
+- 🎓 Degree in systems analysis and development
 - 🌱  I’m 21 years old and currently learning about Spring Security and ReactJS.
 - 👩‍💻  I'm learning about Back-End and DevOps development and technologies.
-- ❤️‍🩹  I like to sleep, cook, and definitely write poems in my free time.
+- ❤️‍🩹 In my free time I like to cook, sleep and definitely write poems.
 - 🧘‍♀️ Salmo 125:1
 <br>
 
