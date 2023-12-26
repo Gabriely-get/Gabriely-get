@@ -5,7 +5,7 @@
 ### About Me :
 - 🎓 Degree in systems analysis and development
 - 🌱  I’m 21 years old and currently learning about Spring Security and ReactJS.
-- 👩‍💻  I'm learning about Back-End and DevOps development and technologies.
+- 👩‍💻  Looking for an opportunity in the Backend or DevOps area.
 - ❤️‍🩹 In my free time I like to cook, sleep and definitely write poems.
 - 🧘‍♀️ Salmo 125:1
 <br>
