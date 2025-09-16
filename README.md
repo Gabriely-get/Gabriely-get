@@ -4,9 +4,8 @@
 
 ### About Me :
 - 🎓 Degree in systems analysis and development
-- 🌱  I’m 21 years old and currently learning about Spring Security and ReactJS.
-- 👩‍💻  Looking for an opportunity in the Backend or DevOps area.
-- ❤️‍🩹 In my free time I like to cook, sleep and definitely write poems.
+- 🌱  I’m 23 years old and currently learning about Azure Cloud.
+- 👩‍💻  DevOps and Cloud professional.
 - 🧘‍♀️ Salmo 125:1
 <br>
 
@@ -61,5 +60,5 @@
    <a href="https://www.linkedin.com/in/gabriely-cristovao/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
    </a>
-   <a href = "Mailto:gabrielysantos.informatica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "Mailto:gabriely329@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
